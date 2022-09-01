@@ -1,1 +1,4 @@
-// code your solution here
+const superbowlWin = (array) => {
+   return array.result === 'W'
+    
+}
